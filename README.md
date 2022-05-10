@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End.
 - 🌱 I’m currently learning Html, css, javascript.
 - 💞️ I’m search for a treinee  job.
-- 📫 LinkedIn: https://www.linkedin.com/in/jadleyfelipe/
+
 
 <!---
 Jadley/Jadley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
