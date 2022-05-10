@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jadley
+- 👋 Hi, I’m Jadley Felipe
 - 👀 I’m interested in Front-End.
-- 🌱 I’m currently learning Html.
-- 💞️ I’m looking to collaborate on every person.
-- 📫 How to reach me jadleyd@gmail.com
+- 🌱 I’m currently learning Html, css, javascript.
+- 💞️ I’m search for a treinee  job.
+- 📫 LinkedIn: https://www.linkedin.com/in/jadleyfelipe/
 
 <!---
 Jadley/Jadley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
