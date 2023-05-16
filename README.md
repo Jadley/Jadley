@@ -24,6 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=Html5&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=red&labelColor=0D1117)&nbsp; 
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=pink&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -31,6 +32,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
