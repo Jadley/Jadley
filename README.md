@@ -4,10 +4,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jadley&theme=dracula&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jadley&theme=dracula&card_width=200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadley&layout=compact&langs_count=8&card_width=300&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadley&layout=compact&langs_count=8&card_width=200&theme=dracula" />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Jadley&bg_color=0d1117&color=ffffff&line=941e16&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
