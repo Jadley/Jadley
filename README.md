@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=941e16&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jadley+Felipe;I'm+24+years+old;I'm+from+Brazil;Front-End+Developer;I'm+Graduating+analysis+and+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jadley&show_icons=true&count_private=true&hide_border=true&title_color=941e16&icon_color=941e16&text_color=c9d1d9&bg_color=0d1117" alt="Jadley Felipe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadley&layout=compact&hide_border=true&title_color=941e16&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jadley&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadley&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Jadley&bg_color=0d1117&color=ffffff&line=941e16&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
