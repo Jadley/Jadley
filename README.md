@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jadley&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadley&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadley&layout=compact&langs_count=8&card_width=260&show_icons=true&theme=radical" />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Jadley&bg_color=0d1117&color=ffffff&line=941e16&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
