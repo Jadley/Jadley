@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=941e16&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f34b7d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=941e16&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jadley+Felipe;I'm+24+years+old;I'm+from+Brazil;Front-End+Developer;I'm+Graduating+analysis+and+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f34b7d&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jadley+Felipe;I'm+24+years+old;I'm+from+Brazil;Front-End+Developer;I'm+Graduating+analysis+and+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
